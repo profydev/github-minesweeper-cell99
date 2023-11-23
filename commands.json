@@ -1,5 +1,11 @@
 {
   "commands": [
-    "clear e5"
+    "clear e5",
+    "flag h4",
+    "flag e7",
+    "clear f3",
+    "clear h3",
+    "clear c7",
+    "clear e8"
   ]
 }
