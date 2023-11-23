@@ -6,6 +6,17 @@
     "clear f3",
     "clear h3",
     "clear c7",
-    "clear e8"
+    "clear e8",
+    "clear g2",
+    "clear h2",
+    "flag e3",
+    "clear d3",
+    "flag c3",
+    "clear b3",
+    "clear b4",
+    "clear b5",
+    "clear d7",
+    "clear d8"
+
   ]
 }
